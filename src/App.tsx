@@ -1,10 +1,10 @@
 import '../src/styles/App.css'
-import Navbar from './components/Navbar'
+import NavbarBootstrap from './components/NavbarBootstrap'
 
 function App() {
   return (
     <>
-      <Navbar/>
+      <NavbarBootstrap/>
     </>
   )
 }
