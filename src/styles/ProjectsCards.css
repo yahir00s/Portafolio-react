@@ -16,9 +16,24 @@
     background-color: gray;
     width: 25rem;
     height: 20rem;
-    margin: 2rem;
+    margin-bottom: 2rem;
     border-radius: 3%;
     text-align: center;
-
+    
 }
 
+.h2-projects{
+    text-align: center;
+}
+
+@media only screen and (max-width: 900px) {
+    .projects{
+        flex-direction: column;
+        align-items: center;
+    }
+    .project-card-container{
+        width: 20rem;
+        height: 15rem;
+
+    }
+  }
