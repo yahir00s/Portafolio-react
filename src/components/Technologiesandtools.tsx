@@ -6,13 +6,13 @@ const Technologiesandtools = () => {
     <main className='container-skills'>
         <h2>Technologies and tools</h2>
         <section>
-                <LiReutil image="./assets/tecnologies/Git.png" name="Git"/>
-                <LiReutil image="./assets/tecnologies/GitHub.png" name="GitHub"/>
-                <LiReutil image="./assets/tecnologies/Jira.png" name="Jira"/>
-                <LiReutil image="./assets/tecnologies/Jest.png" name="Jest"/>
-                <LiReutil image="./assets/tecnologies/NPM.png" name="npm"/>
-                <LiReutil image="./assets/tecnologies/Notion-logo.svg" name="Notion"/>
-                <LiReutil image="./assets/tecnologies/slack.png" name="slack"/>
+                <LiReutil image="./public/tecnologies/Git.png" name="Git"/>
+                <LiReutil image="./public/tecnologies/GitHub.png" name="GitHub"/>
+                <LiReutil image="./public/tecnologies/Jira.png" name="Jira"/>
+                <LiReutil image="./public/tecnologies/Jest.png" name="Jest"/>
+                <LiReutil image="./public/tecnologies/NPM.png" name="npm"/>
+                <LiReutil image="./public/tecnologies/Notion-logo.svg" name="Notion"/>
+                <LiReutil image="./public/tecnologies/slack.png" name="slack"/>
 
         </section>
     </main>
