@@ -5,10 +5,10 @@ const Skills = () => {
     <main className='container-skills'>
         <h2>Principal Skills</h2>
         <section>
-            <LiReutil image="/src/assets/react.svg" name="React Native"/>
-            <LiReutil image="/src/assets/mongoDB.png" name="MongoDB"/>
-            <LiReutil image="/src/assets/ExpressE.png" name="Express"/>
-            <LiReutil image="/src/assets/TypeScript.png" name="TypeScript"/>
+            <LiReutil image="./assets/react.svg" name="React Native"/>
+            <LiReutil image="./assets/mongoDB.png" name="MongoDB"/>
+            <LiReutil image="./assets/ExpressE.png" name="Express"/>
+            <LiReutil image="./assets/TypeScript.png" name="TypeScript"/>
         </section>
     </main>
   )
