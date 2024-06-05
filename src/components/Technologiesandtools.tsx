@@ -11,7 +11,7 @@ const Technologiesandtools = () => {
                 <LiReutil image="https://i.postimg.cc/k4LH1QYw/Jira.png" name="Jira"/>
                 <LiReutil image="https://i.postimg.cc/GpWvSs2Q/Jest.png" name="Jest"/>
                 <LiReutil image="https://i.postimg.cc/6QfR1tHP/NPM.png" name="npm"/>
-                <LiReutil image="https://i.postimg.cc/fbPSJCbw/notion-logo.png" name="Notion"/>
+                <LiReutil image="https://i.postimg.cc/YSy5mGgN/notion-logo-no-background.png" name="Notion"/>
                 <LiReutil image="https://i.postimg.cc/jjKkBqX0/slack.png" name="slack"/>
 
         </section>
