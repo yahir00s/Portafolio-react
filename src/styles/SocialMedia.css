@@ -1,0 +1,14 @@
+.social-media{
+    position: absolute;
+    top: 45%;
+
+}
+.social-media a{
+    display: flex;
+    flex-direction: row;
+}
+
+.social-media a:hover{
+    width: 100  px;
+    height: auto;
+}

@@ -1,8 +1,8 @@
 .nav_container {
   width: 100%;
+  
   background-color: black;
   color: white;
-  position: fixed;
   top: 0;
   left: 0;
 }
@@ -28,29 +28,15 @@
   font-size: 1rem;
 
 }
-
-.nav-social-media{
-  display: flex;
-  align-items: center;
-  margin-left: 2rem;
-  text-decoration: none;
-
-}
-.nav-social-media a {
-  color: white;
-  text-decoration: none;
-  left: 1fr;
-
-}
 .nav-section{
   display: flex;
   flex-direction: row;
 }
 
-span{
+.nav_content span{
   font-size: 0.7rem;
   text-align: center;
-  color: aqua;
+  color:#646cff;
   
 }
 @media only screen and (max-width: 900px) {
