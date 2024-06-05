@@ -7,8 +7,8 @@
 
 }
 
-p{
-    margin: 0;
+.container-me h2 {
+    margin: 2rem;
 }
 .container-me img{
     width: 15%;
@@ -20,6 +20,8 @@ p{
 .container-me span {
     color: aqua;
 }
+
+
 @media only screen and (max-width: 900px) {
     .container-me img{
         width: 40%;
